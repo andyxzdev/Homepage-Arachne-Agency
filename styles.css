@@ -480,7 +480,7 @@ section .textos {
 
 }
 
-@media screen and (max-width: 393px) {
+@media screen and (min-width: 393px) and (max-width: 420px) {
     .logo-header {
         width: 50%;
         height: auto;
